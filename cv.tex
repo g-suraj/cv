@@ -1,0 +1,135 @@
+\documentclass[12pt]{article}
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ top=20mm,
+ left=20mm,
+ right=20mm,
+ bottom=20mm,
+ }
+\usepackage{tabulary} % instead of tabularx
+
+\usepackage{tabularx}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=black,
+}
+
+\thispagestyle{empty} % Get rid of page number
+
+\usepackage{multirow}
+
+\usepackage{booktabs}
+\usepackage{array}
+
+
+\newcolumntype{L}{>{\raggedright}X}
+\newcolumntype{R}{>{\raggedleft}X}
+
+\date{}
+\begin{document}
+
+%%% HEADING %%%
+\noindent
+\begin{tabularx}{\linewidth}{@{} L R @{}}
+\LARGE Suraj G & 
+{
+\begin{tabular}[t]{r}
+contactgsuraj@gmail.com \\ \underline{\href{https://g-suraj.github.io}{g-suraj.github.io}
+}
+\end{tabular}}
+\end{tabularx}
+\noalign{\vskip 2mm}
+%%%%%%%%%%%%%%%
+
+%%% EDUCATION %%%
+\noindent {\Large Education} 
+\noalign{\vskip 1mm}
+\midrule[0.1pt]
+
+\noindent\begin{tabularx}{\linewidth}{@{} L r @{}}
+\noalign{\vskip 2mm} \textbf{Imperial College London} \textit{Computing M.Eng.} & 2015 - 2019 &
+\noalign{\vskip 1mm} \multicolumn{2}{@{}l}{Fourth Year student on track for a first class with honors} &
+
+\noalign{\vskip 2mm} \textbf{Anglo-Chinese School (Independent)} \textit{International Baccalaureate} & 2009 - 2014 &
+\noalign{\vskip 1mm} \multicolumn{2}{@{} p{\hsize}}{
+Subjects taken were Computing, Maths and Physics at Higher Level and Business Management, Hindi and Language \& Literature at Standard Level
+} &
+\end{tabularx}
+\noalign{\vskip 5mm}
+%%%%%%%%%%%%%%%
+
+%%% WORKEXP %%%
+\noindent {\Large Work Experience} 
+\noalign{\vskip 1mm}
+\midrule[0.1pt]
+
+\noindent\begin{tabularx}{\linewidth}{@{} L r @{}}
+
+\noalign{\vskip 2mm} \textbf{Bloomberg L.P.} \textit{Software Engineering Intern - C++} & Mar - Sep 2018 &
+\noalign{\vskip 1mm} \multicolumn{2}{@{} p{\hsize}}{
+Industrial Placement working in the Fixed Income team, specifically reporting. Re-implementing client-side codebase as a service layer to improve extensibility and reliability. Tool worked on is used by global investment banks and even Bloomberg in-house teams.
+} &
+
+\noalign{\vskip 2mm} \textbf{Chubb Insurance} \textit{Summer Intern - DevOps} & Sep - Oct 2017 &
+\noalign{\vskip 1mm} \multicolumn{2}{@{} p{\hsize}}{
+Shadowing and working with DevOps team to deliver scripts and solutions for VCS migration.
+} &
+
+\noalign{\vskip 2mm} \textbf{GlaxoSmithKline} \textit{Summer Intern - WebSec} & Sep - Oct 2016 &
+\noalign{\vskip 1mm} \multicolumn{2}{@{} p{\hsize}}{
+Worked on proposal to introduce new hires to common security vulnerabilities. Shadowing teams to understand risk assessment protocols, eventually contributing to one.
+} &
+
+\noalign{\vskip 2mm} \textbf{GLite LLP Singapore} \textit{Summer Intern} & Sep - Oct 2016 &
+\noalign{\vskip 1mm} \multicolumn{2}{@{} p{\hsize}}{
+Basic UX and UI wire-framing for Union Energy Singapore. Assisting with QA testing for an Android application with goal of bringing the android app up to speed with the iOS one.
+} &
+
+\end{tabularx}
+\noalign{\vskip 5mm}
+%%%%%%%%%%%%%%%
+
+%%% PROJECTS %%%
+\noindent {\Large Projects} 
+\noalign{\vskip 1mm}
+\midrule[0.1pt]
+
+\noindent\begin{tabularx}{\linewidth}{@{} L r @{}}
+
+\noalign{\vskip 2mm} \textbf{Pamoja} \textit{Competitive Coding} & IBM Project Prize runner-up &
+\noalign{\vskip 1mm} \multicolumn{2}{@{} p{\hsize}}{
+Platform pits players of similar ranks together, with a coding question that matches their ranks.
+Users are motivated to rank up with prizes. The more games played, the richer the players profile, which an enterprise user could inspect. Companies can also create their own questions and target users of certain ranks, then able to view the best solutions to their problems.
+} &
+
+\noalign{\vskip 2mm} \textbf{Etheroscope} \textit{Smart Contract Explorer} & Microsoft Project Prize runner-up &
+\noalign{\vskip 1mm} \multicolumn{2}{@{} p{\hsize}}{
+A partnership with social impact start-up \underline{\href{https://Alice.si}{Alice.si}} to provide a user-friendly interface for visualising ethereum smart contracts. Blog post on microsoft's website about this project \underline{\href{https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/19/etheroscope-a-smart-contract-visualiser/}{here}}.
+} &
+\noalign{\vskip 2mm} \textbf{Baremetal Pac-Man} \textit{Raspberry Pi Project} & \underline{\href{https://git.io/vKTLE}{git.io/vKTLE}} &
+\noalign{\vskip 1mm} \multicolumn{2}{@{} p{\hsize}}{
+Reverse engineering Pac-Man from scratch for the Raspberry Pi, using a game guide. Done in baremetal C, with the Raspberry Pi would booting a Pac-Man kernel image. Watch it \underline{\href{https://www.youtube.com/watch?v=kRHcZz1TD5c}{here}}.
+} &
+
+\end{tabularx}
+\noalign{\vskip 5mm}
+%%%%%%%%%%%%%%%
+%%% ME ??? %%%
+\noindent {\Large Who Am I?} 
+\noalign{\vskip 1mm}
+\midrule[0.1pt]
+
+\noindent\begin{tabularx}{\linewidth}{@{} L r @{}}
+\noalign{\vskip 1mm} \multicolumn{2}{@{} p{\hsize}}{
+I like music and movies occasionally writing \underline{\href{https://g-suraj.github.io/blog/reviews/}{reviews}}, having written for the school paper.
+} &
+\noalign{\vskip 2mm} I like to take \underline{\href{https://500px.com/surajg}{photos}}
+& I speak English, Hindi, Tamil and Marathi
+\end{tabularx}
+
+%%%%%%%%%%%%%%%
+
+\end{document}
