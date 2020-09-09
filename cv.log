@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.9.30)  22 AUG 2019 19:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.9.30)  9 SEP 2020 22:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -550,587 +550,515 @@ l.81 \midrule
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
-./cv.tex:105: Extra alignment tab has been changed to \cr.
+./cv.tex:101: Extra alignment tab has been changed to \cr.
 <template> ...egin \relax \d@llarend \endtemplate 
                                                   
-l.105 \end{tabularx}
+l.101 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:105: Extra alignment tab has been changed to \cr.
+./cv.tex:101: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.105 \end{tabularx}
+l.101 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:105: Extra alignment tab has been changed to \cr.
+./cv.tex:101: Extra alignment tab has been changed to \cr.
 <template> ...egin \relax \d@llarend \endtemplate 
                                                   
-l.105 \end{tabularx}
+l.101 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:105: Extra alignment tab has been changed to \cr.
+./cv.tex:101: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.105 \end{tabularx}
+l.101 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:105: Extra alignment tab has been changed to \cr.
+./cv.tex:101: Extra alignment tab has been changed to \cr.
 <template> ...egin \relax \d@llarend \endtemplate 
                                                   
-l.105 \end{tabularx}
+l.101 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:105: Extra alignment tab has been changed to \cr.
+./cv.tex:101: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.105 \end{tabularx}
+l.101 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:105: Extra alignment tab has been changed to \cr.
+./cv.tex:101: Extra alignment tab has been changed to \cr.
 <template> ...egin \relax \d@llarend \endtemplate 
                                                   
-l.105 \end{tabularx}
+l.101 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:105: Extra alignment tab has been changed to \cr.
+./cv.tex:101: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.105 \end{tabularx}
+l.101 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:105: Extra alignment tab has been changed to \cr.
+./cv.tex:101: Extra alignment tab has been changed to \cr.
 <template> ...egin \relax \d@llarend \endtemplate 
                                                   
-l.105 \end{tabularx}
+l.101 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:105: Extra alignment tab has been changed to \cr.
+./cv.tex:101: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.105 \end{tabularx}
+l.101 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:105: Extra alignment tab has been changed to \cr.
+./cv.tex:101: Extra alignment tab has been changed to \cr.
 <template> ...egin \relax \d@llarend \endtemplate 
                                                   
-l.105 \end{tabularx}
+l.101 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:105: Extra alignment tab has been changed to \cr.
+./cv.tex:101: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.105 \end{tabularx}
+l.101 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:105: Extra alignment tab has been changed to \cr.
+./cv.tex:101: Extra alignment tab has been changed to \cr.
 <template> ...egin \relax \d@llarend \endtemplate 
                                                   
-l.105 \end{tabularx}
+l.101 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:105: Extra alignment tab has been changed to \cr.
+./cv.tex:101: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.105 \end{tabularx}
+l.101 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:105: Extra alignment tab has been changed to \cr.
+./cv.tex:101: Extra alignment tab has been changed to \cr.
 <template> ...egin \relax \d@llarend \endtemplate 
                                                   
-l.105 \end{tabularx}
+l.101 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:105: Extra alignment tab has been changed to \cr.
+./cv.tex:101: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.105 \end{tabularx}
-                    
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-./cv.tex:105: Extra alignment tab has been changed to \cr.
-<template> ...egin \relax \d@llarend \endtemplate 
-                                                  
-l.105 \end{tabularx}
-                    
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-./cv.tex:105: Extra alignment tab has been changed to \cr.
-<template> \endtemplate 
-                        
-l.105 \end{tabularx}
-                    
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-./cv.tex:105: Extra alignment tab has been changed to \cr.
-<template> ...egin \relax \d@llarend \endtemplate 
-                                                  
-l.105 \end{tabularx}
-                    
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-./cv.tex:105: Extra alignment tab has been changed to \cr.
-<template> \endtemplate 
-                        
-l.105 \end{tabularx}
-                    
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-./cv.tex:105: Extra alignment tab has been changed to \cr.
-<template> ...egin \relax \d@llarend \endtemplate 
-                                                  
-l.105 \end{tabularx}
-                    
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-./cv.tex:105: Extra alignment tab has been changed to \cr.
-<template> \endtemplate 
-                        
-l.105 \end{tabularx}
-                    
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-./cv.tex:105: Extra alignment tab has been changed to \cr.
-<template> ...egin \relax \d@llarend \endtemplate 
-                                                  
-l.105 \end{tabularx}
-                    
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-./cv.tex:105: Extra alignment tab has been changed to \cr.
-<template> \endtemplate 
-                        
-l.105 \end{tabularx}
+l.101 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 105--105
+Overfull \hbox (6.0pt too wide) in alignment at lines 101--101
 [][] 
  []
 
-./cv.tex:106: Misplaced \noalign.
-l.106 \noalign
+./cv.tex:102: Misplaced \noalign.
+l.102 \noalign
               {\vskip 5mm}
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
-./cv.tex:111: Misplaced \noalign.
-l.111 \noalign
+./cv.tex:107: Misplaced \noalign.
+l.107 \noalign
               {\vskip 1mm}
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
-./cv.tex:112: Misplaced \noalign.
+./cv.tex:108: Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.112 \midrule
+l.108 \midrule
               [0.1pt]
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> ...egin \relax \d@llarend \endtemplate 
                                                   
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> ...egin \relax \d@llarend \endtemplate 
                                                   
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> ...egin \relax \d@llarend \endtemplate 
                                                   
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> ...egin \relax \d@llarend \endtemplate 
                                                   
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> ...egin \relax \d@llarend \endtemplate 
                                                   
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> ...egin \relax \d@llarend \endtemplate 
                                                   
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> ...egin \relax \d@llarend \endtemplate 
                                                   
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> ...egin \relax \d@llarend \endtemplate 
                                                   
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> ...egin \relax \d@llarend \endtemplate 
                                                   
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> ...egin \relax \d@llarend \endtemplate 
                                                   
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> ...egin \relax \d@llarend \endtemplate 
                                                   
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> ...egin \relax \d@llarend \endtemplate 
                                                   
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:131: Extra alignment tab has been changed to \cr.
+./cv.tex:127: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.131 \end{tabularx}
+l.127 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 131--131
+Overfull \hbox (6.0pt too wide) in alignment at lines 127--127
 [][] 
  []
+
+./cv.tex:128: Misplaced \noalign.
+l.128 \noalign
+              {\vskip 5mm}
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
 
 ./cv.tex:132: Misplaced \noalign.
 l.132 \noalign
-              {\vskip 5mm}
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-./cv.tex:136: Misplaced \noalign.
-l.136 \noalign
               {\vskip 1mm}
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
-./cv.tex:137: Misplaced \noalign.
+./cv.tex:133: Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.137 \midrule
+l.133 \midrule
               [0.1pt]
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
-./cv.tex:150: Extra alignment tab has been changed to \cr.
+./cv.tex:146: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.150 \end{tabularx}
+l.146 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:150: Extra alignment tab has been changed to \cr.
+./cv.tex:146: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.150 \end{tabularx}
+l.146 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:150: Extra alignment tab has been changed to \cr.
+./cv.tex:146: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.150 \end{tabularx}
+l.146 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:150: Extra alignment tab has been changed to \cr.
+./cv.tex:146: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.150 \end{tabularx}
+l.146 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:150: Extra alignment tab has been changed to \cr.
+./cv.tex:146: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.150 \end{tabularx}
+l.146 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:150: Extra alignment tab has been changed to \cr.
+./cv.tex:146: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.150 \end{tabularx}
+l.146 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:150: Extra alignment tab has been changed to \cr.
+./cv.tex:146: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.150 \end{tabularx}
+l.146 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
-./cv.tex:150: Extra alignment tab has been changed to \cr.
+./cv.tex:146: Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.150 \end{tabularx}
+l.146 \end{tabularx}
                     
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
 
 
-Overfull \hbox (6.0pt too wide) in alignment at lines 150--150
+Overfull \hbox (6.0pt too wide) in alignment at lines 146--146
 [][] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 154.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 150.
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 154.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 150.
  (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 154.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 154.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 150.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 150.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 154.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 150.
  ) 
 Here is how much of TeX's memory you used:
  5421 strings out of 492649
  80272 string characters out of 6129622
- 182247 words of memory out of 5000000
+ 181247 words of memory out of 5000000
  9284 multiletter control sequences out of 15000+600000
  7628 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  28i,18n,24p,634b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on cv.pdf (1 page, 67274 bytes).
+Output written on cv.pdf (1 page, 66007 bytes).
 PDF statistics:
  68 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
